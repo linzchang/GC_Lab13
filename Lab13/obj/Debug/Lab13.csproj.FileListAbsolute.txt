@@ -1,0 +1,7 @@
+\\mi\dfs\Users\LChang\Desktop\GrandCircus\Lab13\Lab13\bin\Debug\Lab13.exe.config
+\\mi\dfs\Users\LChang\Desktop\GrandCircus\Lab13\Lab13\bin\Debug\Lab13.exe
+\\mi\dfs\Users\LChang\Desktop\GrandCircus\Lab13\Lab13\bin\Debug\Lab13.pdb
+\\mi\dfs\Users\LChang\Desktop\GrandCircus\Lab13\Lab13\obj\Debug\Lab13.csprojAssemblyReference.cache
+\\mi\dfs\Users\LChang\Desktop\GrandCircus\Lab13\Lab13\obj\Debug\Lab13.csproj.CoreCompileInputs.cache
+\\mi\dfs\Users\LChang\Desktop\GrandCircus\Lab13\Lab13\obj\Debug\Lab13.exe
+\\mi\dfs\Users\LChang\Desktop\GrandCircus\Lab13\Lab13\obj\Debug\Lab13.pdb
